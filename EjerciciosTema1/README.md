@@ -1,2 +1,6 @@
-# OB_curso_de_python
-OpenBootcamp Curso de Python
+# OB Curso de Python
+## Ejercicio 1
+
+Desde la consola de python almacena la cadena **“Hola mundo!” en una variable y muéstrala.**
+
+Tienes que subir capturas de pantalla en una carpeta comprimida zip.
