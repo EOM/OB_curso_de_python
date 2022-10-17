@@ -15,10 +15,10 @@ Tienes que subir capturas de pantalla en una carpeta comprimida zip.
 
 ### Codigo Python:
 
-``
+```python
 datos_del_usuario = {'peso_en_kg':0.0, 'altura_en_metros': 0.0}
 datos_del_usuario['peso_en_kg'] = 72.6
 datos_del_usuario['altura_en_metros'] = 1.81
 print(datos_del_usuario)
 print("IMC: "+str(datos_del_usuario['peso_en_kg']/(datos_del_usuario['altura_en_metros']**2)))
-``
+```
