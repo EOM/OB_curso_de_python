@@ -1,5 +1,5 @@
 # OB Curso de Python
-## Ejercicio 3
+## Ejercicio 4
 **Enunciado del ejercicio:**
 
 Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
