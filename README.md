@@ -5,6 +5,5 @@
 - [Ejercicio 3](EjerciciosTema3)
 - [Ejercicio 4](EjerciciosTema4)
 - [Ejercicio 5](EjerciciosTema5)
-- [Ejercicio 5](EjerciciosTema5)
 - [Ejercicio 6.1](EjerciciosTema6-1)
 - [Ejercicio 6.2](EjerciciosTema6-2)
