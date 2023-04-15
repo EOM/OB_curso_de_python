@@ -7,3 +7,5 @@
 - [Ejercicio 5](EjerciciosTema5)
 - [Ejercicio 6.1](EjerciciosTema6-1)
 - [Ejercicio 6.2](EjerciciosTema6-2)
+- [Ejercicio 7.1](EjerciciosTema7-1)
+- [Ejercicio 7.2](EjerciciosTema7-2)
