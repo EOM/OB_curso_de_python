@@ -12,3 +12,4 @@
 - [Ejercicio 8.1](EjerciciosTema8-1)
 - [Ejercicio 8.2](EjerciciosTema8-2)
 - [Ejercicio 9.1](EjerciciosTema9-1)
+- [Ejercicio 9.2](EjerciciosTema9-2)
