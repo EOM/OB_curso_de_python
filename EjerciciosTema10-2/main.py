@@ -8,7 +8,7 @@ class SimpleGUI(Tk):
         self.iniciarUI()
 
     def iniciarUI(self):
-        self.title("Ejercicio 10-1")
+        self.title("Ejercicio 10-2")
         self.minsize(300, 200)  # MIN width, height
         self.maxsize(300, 200)  # MAX width, height
         self.geometry("400x200+550+50")  # centrar ventana
