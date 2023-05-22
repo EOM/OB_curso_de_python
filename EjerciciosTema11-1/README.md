@@ -10,7 +10,7 @@ Una vez creada la tabla, tenéis que insertarle datos, como mínimo tenéis que 
 
 Por último, tienes que realizar una búsqueda de un alumno por nombre y mostrar los datos por consola.
 
-### Codigo Python:
+### Codigo SQL:
 
 ```sql
 CREATE TABLE Alumnos ( id INTEGER PRIMARY KEY, nombre TEXT NOT NULL, apellido TEXT NOT NULL );

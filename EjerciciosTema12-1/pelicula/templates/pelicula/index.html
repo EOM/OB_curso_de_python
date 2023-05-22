@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h1>Peliculas Cantidad {{count_peliculas}}</h1>
+    {% for p in peliculas %}
+<ul>
+    <li><strong>Pelicula:</strong>{{p.nombre}}</li>
+    <li><strong>Director:</strong>{{p.director}}</li>
+    <li><strong>Descripcion:</strong>{{p.descripcion}}</li>
+</ul>
+    {% endfor %}
+{% endblock %}

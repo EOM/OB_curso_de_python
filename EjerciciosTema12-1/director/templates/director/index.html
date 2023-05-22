@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h2>Directores Cantidad {{count_directores}}</h2>
+    {% for p in directores %}
+<ul>
+    <li><strong>Nombre:</strong>{{p.nombre}}</li>
+    <li><strong>Apellido:</strong>{{p.apellido}}</li>
+</ul>
+    {% endfor %}
+{% endblock %}
